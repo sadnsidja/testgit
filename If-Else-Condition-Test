@@ -1,0 +1,6 @@
+username = input("username: ")
+password = int(input("password: "))
+if username == "IMREAL" and password == 0000:
+    print("correct")
+else:
+    print("ERROR")
